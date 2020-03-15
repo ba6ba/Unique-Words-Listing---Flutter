@@ -1,10 +1,8 @@
-# firstflutterapp
+# Unique Words Listing - Flutter
 
-A new Flutter application.
+It is an initial starter application using Flutter which generates infinite list of random words as you go on scrolling.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
